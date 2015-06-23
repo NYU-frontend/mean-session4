@@ -1,6 +1,6 @@
 #MEAN Session Four
 
-##Assignment
+##Assignment (see the other repo - dd-testing for files)
 
 * Read chapters One and Two in AngularJS Up and Running
 * Implement the Angular code and techniques used in the bootstrap file (other > Angular > start.html) in the Pirate Portfolio. Use the HTML structures in the Pirate Portfolio as the basis for this (i.e. do not just copy the HTML from start.html)
