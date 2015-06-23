@@ -3,8 +3,8 @@
 ##Assignment
 
 * Read chapters One and Two in AngularJS Up and Running
-* Discover Bootstrap! Make the final bootsrap layout fully responsive by adding class as per [this example](http://getbootstrap.com/css/#grid-options)
-* apply the Angular filtering to the pirate portfolio
+* Implement the Angular code and techniques used in the bootstrap file (other > Angular > start.html) in the Pirate Portfolio. Use the HTML structures in the Pirate Portfolio as the basis for this (i.e. do not just copy the HTML from start.html)
+* Discover Bootstrap! - make the start.html file responsive by studying and implementing the [Bootstrap grid system](http://getbootstrap.com/examples/grid/). (Be sure to test the Bootstrap Grid Examples page by narrowing the browser.)
 
 ##From jQuery to Angular
 
