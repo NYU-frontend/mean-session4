@@ -3,6 +3,7 @@
 ##Assignment
 
 * Read chapters One and Two in AngularJS Up and Running
+* Discover Bootstrap! Make the final bootsrap layout fully responsive by adding class as per [this example](http://getbootstrap.com/css/#grid-options)
 * apply the Angular filtering to the pirate portfolio
 
 ##From jQuery to Angular
